@@ -7,12 +7,12 @@
 // while (a <= 5) {
 //   console.log(a);
 //   a++;
-
+// }
 // todo for ile
 
 // for (let index = 1; index <= 5; index++) {
-//     console.log(index);
-//   }
+//   console.log(index);
+// }
 
 // !end
 
@@ -38,24 +38,13 @@
 //todo task 3 end
 
 // ? Task-4 start
+
+// todo for ile
 // for (let index = 1; index <= 100; index += 5) {
 //   console.log(index);
 // }
 
-// ! task-4 end
-
-// ? Task-5 start
-
 // todo while ile
-
-// let faktorial = 1;
-// for (let index = 1; index <= 10; index++) {
-//   faktorial *= index;
-// }
-
-// console.log(faktorial);
-
-//todo  for ile
 
 // let a = 1;
 
@@ -63,6 +52,17 @@
 //   console.log(a);
 //   a += 5;
 // }
+
+// ! task-4 end
+
+// ? Task-5 start
+
+// let faktorial = 1;
+// for (let index = 1; index <= 10; index++) {
+//   faktorial *= index;
+// }
+
+// console.log(faktorial);
 
 //! task-5 end
 
